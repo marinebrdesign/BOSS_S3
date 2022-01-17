@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "texte": "Née le 28 mars 1986 à New York, Lady Gaga, de son vrai nom, Stefani Joanne Angelina Germanotta) est auteur, compositrice et interprète. Très tôt attirée par la musique, elle apprend seule le piano dès l’âge de quatre ans, compose ses premières ballades à 13 ans et arpente les scènes libres à partir de 14 ans. Mais pour l’artiste précoce, le succès n’est pas immédiatement au rendez-vous. Après avoir arrêté ses études à l’université de New York pour se consacrer à sa carrière musicale, elle alterne des petits boulots de serveuse et de strip teaseuse dans des bars de la Grosse Pomme.",
+    "image": "static/img/lady_gaga_jeune.jpg"
+  },
+  {
+    "id": 2,
+    "texte": "A 19 ans, elle finit par signer avec Def Jam Records mais le patron du label ne la rappelle           jamais et son contrat est rompu au bout de trois mois. Une aventure dont la chanteuse ressort           bouleversée, mais qui ne l’empêche pas de continuer à espérer. Très croyante, Lady Gaga           quitte le domicile familial et commence à se produire sur la scène du Lower East Side avec le           groupe Mackin Pulsifer et SGBand. Le producteur de musique Rob Fusari l’aide à produire ses           premières chansons qui lui rappellent le style vocal de Freddie Mercury. Il surnomme           affectueusement la chanteuse Gaga, en rapport avec la chanson Radio Gaga de Freddie            Mercury, qui commence à utiliser ce nom de scène: Lady Gaga est née! Ne parvenant pas à           percer dans la chanson, elle s’essaie à l’écriture de textes pour le compte d’artistes comme            Fergie, les Pussycat Dolls, Britney Spears, signés par le label musical du rappeur Akon… Et           c’est Akon en personne qui, impressionné par la voix de la chanteuse, lui propose de produire            son premier album.",
+    "image": "static/img/the_fame_era.jpg"
+  },
+
+  {
+    "id": 3,
+    "texte": "En 2007, âgée de 21 ans, elle signe donc son premier contrat avec Interscope Records, et\n            entame un partenariat avec le chanteur Akon. The Fame, son premier album, sort l’année\n            suivante.\n            Just dance, l’un des titres de l’album, est numéro un dans le monde entier durant de\n            nombreuses semaines. Pour promouvoir son album, la chanteuse se lance dans une tournée\n            mondiale,\n            The Fame Ball Tour, de mars à septembre 2009. Une tournée qui, selon ses dires, lui aurait\n            inspiré son second opus. The Fame Monster, sorti en novembre 2009 est une réédition de son\n            premier album incluant 8 nouveaux titres. Un des singles de l’album, Bad romance, est\n            considéré comme son plus grand succès et l’album en lui-même est le plus vendu de l’année\n            2009 juste derrière Susan Boyle. Lors des Brit Awards 2010, elle triomphe à Londres en\n            remportant les trophées de la Meilleure chanteuse internationale, du Meilleur album\n            international et de la Révélation internationale de l’année. Le troisième album de Lady Gaga\n            voit le jour en mai 2011 sous le titre Born this way. En fin d'année 2011, Lady Gaga occupe la\n            deuxième place du classement mondial grâce à son album Born this way vendu à plus de 5\n            millions d'exemplaires dans le monde. Le 27 avril 2012, la star débute une nouvelle tournée\n            mondiale, The Born This Way Tour à Séoul en Corée du Sud et dévoile le 27 juin 2012, lors d’un\n            de ses concerts à Melbourne, en Australie, une musique inédite, Princess Die, inspiré de la\n            Princesse Diana, qui a suscité de violentes critiques dans les médias britanniques.",
+    "image": "static/img/born_this_way_era.jpg"
+  },
+
+  {
+    "id": 4,
+    "texte": "En 2018, elle ajoute une corde à son arc et fait ses débuts d'actrice à l'affiche du film A star is born de Bradley Cooper. Sa prestation lui vaut d'être nominée aux Golden Globes dans la catégorie meilleure actrice dans un film dramatique. En février 2019, elle remporte l'Oscar de la meilleure chanson originale pour Shallow, bande originale du film A star is born.\n            Puis en 2021, elle est à l'affiche du film \"House of Gucci\" réalisé par Ridley\n            Scott, retraçant l'histoire de la famille Gucci.",
+    "image": "static/img/oscar.jpg"
+  }
+]

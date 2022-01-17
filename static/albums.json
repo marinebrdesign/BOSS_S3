@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "image_album": "static/img/the_fame_discographie.png",
+    "nom": "THE FAME",
+    "annee": "2008",
+    "deuxieme_image": "static/img/lady_gaga.png"
+  },
+
+    {
+        "id": 2,
+      "droite": "oui",
+      "image_album": "static/img/the_fame_monster.png",
+        "nom": "THE FAME MONSTER",
+        "annee": "2009",
+        "deuxieme_image": "static/img/the_fame_monster_2.png"
+    },
+
+  {
+    "id": 3,
+    "image_album": "static/img/born_this_way.png",
+    "nom": "BORN THIS WAY",
+    "annee": "2009",
+    "deuxieme_image":  "static/img/born_this_way_2.png"
+  },
+
+  {
+    "id": 4,
+    "image_album": "static/img/Artpop.png",
+    "nom": "ART POP",
+    "annee": "2013",
+    "deuxieme_image": "static/img/Artpop_2.png"
+  },
+
+  {
+    "id": 5,
+    "image_album": "static/img/cheek_to_cheek.png",
+    "nom": "CHEEK TO CHEEK",
+    "annee": "2014",
+    "deuxieme_image":  "static/img/cheek_to_cheek_2.png"
+  },
+
+  {
+    "id": 6,
+    "image_album": "static/img/joanne.png",
+    "nom": "JOANNE",
+    "annee": "2016",
+    "deuxieme_image":  "static/img/joanne_2.png"
+  },
+
+  {
+    "id": 7,
+    "image_album": "static/img/chromatica.png",
+    "nom": "CHROMATICA",
+    "annee": "2020",
+    "deuxieme_image":  "static/img/Chromatica_2.png",
+    "spotify": "https://open.spotify.com/embed/album/05c49JgPmL4Uz2ZeqRx5SP?utm_source=generator&theme=0"
+  },
+
+  {
+    "id": 8,
+    "image_album": "static/img/love_for_sale.png",
+    "nom": "LOVE FOR SALE",
+    "annee": "2021",
+    "deuxieme_image":  "static/img/love_for_sale_2.png",
+    "spotify": "https://open.spotify.com/embed/album/6hBQkPnq5u1BwZncSEDEgs?utm_source=generator&theme=0"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "image_film": "static/img/star_is_born_2.png",
+    "nom": "A STAR IS BORN",
+    "annee": "2018"
+  },
+  {
+    "id": 2,
+    "image_film": "static/img/house_of_gucci.png",
+    "nom": "HOUSE OF GUCCI",
+    "annee": "2021"
+  }
+
+]
+
